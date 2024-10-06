@@ -81,6 +81,9 @@ To run the project:
 3. Use Google Colab to write and execute Python code.
 4. Follow the solution roadmap to implement the project steps.
 
+## Data Set 
+-https://drive.google.com/file/d/1uW28ofpGlfsvksfKIdlLDMyaG0YZ2eCU/view?usp=drive_link
+
 ## References
 
 - Customer Churn Prediction System based on Self-Attention
